@@ -1,0 +1,50 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "_id": "59035a0fbcab981ba9386b37",
+            "index": 0,
+            "featureclass": "A"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [27.5846072, 53.8953732]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "_id": "59035a0f808df1920739291a",
+            "index": 1,
+            "featureclass": "B"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [27.5682957, 53.8877171]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "_id": "59035a0ffd4cc5dbaa047afb",
+            "index": 2,
+            "featureclass": "C"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [27.5398626, 53.8935869]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "_id": "59035a0ff15552816e77400e",
+            "index": 3,
+            "featureclass": "A"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [27.5434434, 53.9033251]
+        }
+    }
+]
